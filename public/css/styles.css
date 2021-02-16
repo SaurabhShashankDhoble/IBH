@@ -107,7 +107,7 @@ companyimage:hover{
   @media only screen and (max-width: 1000px){
     .home {
       background-color: #d3e0ea;
-      padding: 20% 5%;
+      padding: 30% 5%;
     }
     .introP {
       line-height: 180%;
