@@ -94,7 +94,7 @@ h1 {
   padding-bottom: 2%;
 }
 companyimage:hover{
-  background-color: black;
+ border-radius: 50%;
   }
 
 
@@ -103,57 +103,17 @@ companyimage:hover{
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-@media (max-width: 300px) {
-  html {
-    font-size: 70%;
+  @media (max-width: 1028px){
+    .home {
+      background-color: #dbf6e9;
+      padding: 20% 5%;
+    }
+    .introP {
+      line-height: 180%;
+      font-size: 140%;
+      text-align: justify;
+    }
+    .big-heading{
+      font-size: 2rem;
+    }
   }
-  .companyimage{
-    padding-left: 2%;
-    padding-right: 2%;
-    padding-top: 2%;
-    padding-bottom: 2%;
-  }
-}
-
-@media (min-width: 500px) {
-  html {
-    font-size: 80%;
-  }
-  .companyimage{
-    padding-left: 2%;
-    padding-right: 2%;
-    padding-top: 2%;
-    padding-bottom: 2%;
-  }
-}
-
-@media (min-width: 700px) {
-  html {
-    font-size: 120%;
-  }
-  .companyimage{
-    padding-left: 2%;
-    padding-right: 2%;
-    padding-top: 2%;
-    padding-bottom: 2%;
-  }
-}
-
-@media (min-width: 1200px) {
-  html {
-    font-size: 100%;
-  }
-}
