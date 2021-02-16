@@ -1,3 +1,4 @@
+
 #loading {
   position: fixed;
   width: 100%;
@@ -13,6 +14,7 @@ h1 {
 .home {
   background-color: #d3e0ea;
   padding: 4% 15%;
+  width: 100%;
 }
 
 .intro {
@@ -155,12 +157,12 @@ h2 {
   border-radius: 50%;
 }
 #contactus{
-  position: relative;
-  height: 20vh;
+
   text-align: center;
   background-color:#11698e;
   margin-bottom: 0%;
-  padding-bottom: 0%;
+  padding-bottom: 3%;
+  padding-top: 3%;
   color: #fff;
 }
 .mail:hover{
@@ -171,7 +173,7 @@ h2 {
 
 
 
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 1028px) {
   .home {
     background-color: #d3e0ea;
     padding: 30% 5%;
