@@ -13,8 +13,8 @@ h1 {
 
 .home {
   background-color: #d3e0ea;
-  padding: 4% 15%;
   width: 100%;
+
 }
 
 .intro {
@@ -100,7 +100,7 @@ h2 {
 }
 
 #companies {
-  
+
   padding-top: 5%;
   padding-bottom: 2%;
   text-align: center;
