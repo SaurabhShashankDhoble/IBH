@@ -19,7 +19,6 @@ h1 {
 
 .intro {
   padding-top: 20%;
-
 }
 
 .introP {
@@ -101,7 +100,7 @@ h2 {
 }
 
 #companies {
-  padding-left: 10%;
+
   padding-top: 5%;
   padding-bottom: 2%;
   text-align: center;
@@ -187,6 +186,9 @@ h2 {
     line-height: 180%;
     font-size: 100%;
     text-align: justify;
+
+    padding-left: 2%;
+    padding-right: 2%;
   }
 
   .big-heading {
